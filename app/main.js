@@ -1,0 +1,1 @@
+"use strict";$(".header__slider").slick({infinite:!0,slidesToShow:3,centerMode:!0,slidesToScroll:1});
